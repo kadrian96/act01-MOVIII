@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "631202241463",
+    "firebase_url": "https://app-05-afe8a-default-rtdb.firebaseio.com",
+    "project_id": "app-05-afe8a",
+    "storage_bucket": "app-05-afe8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631202241463:android:eea699c47e796cd209e632",
+        "android_client_info": {
+          "package_name": "com.example.app_06"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATAsWobIpCnmCMDrYFoqGKFU3lr5Nsejk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631202241463:android:95fdcacfb5281f7709e632",
+        "android_client_info": {
+          "package_name": "com.formulario"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATAsWobIpCnmCMDrYFoqGKFU3lr5Nsejk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
